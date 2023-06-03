@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @nikhildubeybattu
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning web development
+- 👋 Hi, I’m Nikhil Kumar Dubey
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Web Development & Python
 
 
 <!---
